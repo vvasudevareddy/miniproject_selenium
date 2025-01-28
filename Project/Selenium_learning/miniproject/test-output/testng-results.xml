@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-27T17:31:39 IST" name="Default suite" finished-at="2025-01-27T17:32:36 IST" duration-ms="57377">
+    <groups>
+    </groups>
+    <test started-at="2025-01-27T17:31:39 IST" name="Default test" finished-at="2025-01-27T17:32:36 IST" duration-ms="57377">
+      <class name="com.cts.tests.Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.cts.tests.Tests@17d919b6]" started-at="2025-01-27T17:31:39 IST" name="setUp" finished-at="2025-01-27T17:31:54 IST" duration-ms="14873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCloseNotificationBanner()[pri:1, instance:com.cts.tests.Tests@17d919b6]" started-at="2025-01-27T17:31:54 IST" name="testCloseNotificationBanner" finished-at="2025-01-27T17:32:05 IST" duration-ms="11143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCloseNotificationBanner -->
+        <test-method signature="testSearchIconVisibility()[pri:2, instance:com.cts.tests.Tests@17d919b6]" started-at="2025-01-27T17:32:05 IST" name="testSearchIconVisibility" finished-at="2025-01-27T17:32:05 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchIconVisibility -->
+        <test-method signature="testSearchFunctionality()[pri:3, instance:com.cts.tests.Tests@17d919b6]" started-at="2025-01-27T17:32:05 IST" name="testSearchFunctionality" finished-at="2025-01-27T17:32:15 IST" duration-ms="9836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionality -->
+        <test-method signature="testNavigationToBookNow()[pri:4, instance:com.cts.tests.Tests@17d919b6]" started-at="2025-01-27T17:32:15 IST" name="testNavigationToBookNow" finished-at="2025-01-27T17:32:30 IST" duration-ms="15553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNavigationToBookNow -->
+        <test-method signature="testDateFilterButton()[pri:5, instance:com.cts.tests.Tests@17d919b6]" started-at="2025-01-27T17:32:30 IST" name="testDateFilterButton" finished-at="2025-01-27T17:32:31 IST" duration-ms="987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDateFilterButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cts.tests.Tests@17d919b6]" started-at="2025-01-27T17:32:31 IST" name="tearDown" finished-at="2025-01-27T17:32:36 IST" duration-ms="4842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cts.tests.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
